@@ -1,4 +1,4 @@
-https://travis-ci.org/jscriptor09/java-calculator.svg?branch=master
+[![Build Status](https://travis-ci.org/jscriptor09/java-calculator.svg?branch=master)](https://travis-ci.org/jscriptor09/java-calculator)
 
 
 # Calculator
