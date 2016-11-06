@@ -17,4 +17,9 @@ public class Calculator {
     public int divide(int a, int b) {
         return a / b;
     }
+
+
+    public float devide(float a, float b) {
+        return a / b;
+    }
 }
