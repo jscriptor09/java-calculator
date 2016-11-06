@@ -1,3 +1,6 @@
+https://travis-ci.org/jscriptor09/java-calculator.svg?branch=master
+
+
 # Calculator
 
 This repository is used to demonstrate Continuous Integration with Java using [Travis CI](http://travis-ci.org).
